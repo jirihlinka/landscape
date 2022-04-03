@@ -1,6 +1,6 @@
 landscape:
   - category:
-    name: Provisioning
+    name: ProvisioningTST
     subcategories:
       - subcategory:
         name: Automation & Configuration
